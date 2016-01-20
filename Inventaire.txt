@@ -1,0 +1,101 @@
+			INVENTAIRE ROBOT INMOOV  ( inmoov.fr/inmoov-stl-parts-viewer )
+
+		VX : Version X de la pièce.
+
+NECK :
+	FaceHolderV3 		: 	OK
+	NeckV1       		: 	OK
+	GearHolderV1 		:  	OK
+	MainGearV1		:  	OK
+	NeckBoltsV2		:  	OK
+	NeckHingerV1		:  	OK
+	RingV1			:  	OK
+	ServoGeatV1		:  	OK
+	SkullservoFixV1		:  	OK
+	ThroatHolderV1		:  	OK
+	ThroatHoleV2		:  	OK
+	ThroatPistonBaseV3	:  	OK
+	ThroatPistonV3		:  	OK
+
+FACE & JAW :
+	EyeGlassV2		:  	OK
+	JawHingeV1		:  	OK
+	JawHingeV3		:  	OK
+	JawPistonV1		:  	OK
+	JawSupportV1		:  	OK
+	JawV4			:  	OK
+	LowBackV2		:  	OK
+	SideHearV2		:  	OK
+	TopMouthV2		:  	OK
+
+SKULL & EARS :
+	EarLeftV0   		:  	OK
+	EarLeftV1		:  	NONE ( V0 à disposition )
+	EarRightV0		:  	OK
+	EarRightV1		:  	NONE ( V0 à disposition )
+	EarSpeakerLeftV1	:  	NONE
+	EarSpeakerRightV1	:  	NONE
+	SpeakerV1		:  	NONE
+	SpeakerSpacerV1		:  	NONE
+	TopBackSkullV1		:  	OK
+	TopSkullLeftV3		:  	OK
+	TopSkullRightV3		:  	OK
+
+SHOULDER :
+	ClaviBackV2		:  	OK
+	ClaviFrontV2		:  	OK
+	LeftPivCenterV1		:  	OK
+	LeftPivMitV1		:  	NONE
+	LeftPivPotHolder	:  	OK
+	LogoLeftMyRobotV2	:  	NONE ( LOGO nécessaire ? )
+	LogoLeftMyRobotV2	:  	NONE ( LOGO nécessaire ? )
+	PistonClaviV3		:  	OK
+	PistonBaseV6		:  	OK
+	PivCenter		:  	OK
+	PivConnectorV1		:  	OK
+	PivGearV4		:  	OK
+	PivMitV1		:  	OK
+	PivPotentioV2		:  	OK
+	PivPotHolderV2		:  	OK
+	PivTitV1		:  	OK
+	PivWormV2		:  	NONE
+	ServoHosterV1		:  	OK
+	ServoHolderV1		:  	NONE
+
+BICEPS :
+	Déja assemblé à l'origine. L'ensemble des pièces y est.
+
+FINGERSENSOR :
+	SensorFinger7-5piece	:  	OK
+	Finger-Starter-Kit	:  	OK
+
+CHEST & BACK :
+	BatteryHolderLeftV1	:  	OK
+	BatteryHolderRightV1	:  	OK
+	BottomChestV1		:  	OK
+	ChestLeftV1		:  	OK
+	ChestRightV1		:  	OK
+	ChestTopAttachV1	:  	OK
+	ChestTopV1		:  	OK
+	InmLeftV1		:  	OK
+	InmRightV1		:  	OK
+	MiddleChest-PIRV1	:  	OK
+	MiddleChestV1		:  	OK
+	SideRibsCoverV2		:  	NONE
+	UnderKinectV1		:  	OK
+
+EYE MECHANISM :
+	EyeBallSupportLeftV1	:  	NONE
+	EyeBallSupportRightV1	:  	NONE
+	EyeBallV1		:  	NONE
+	EyeHingeCurveV1		:  	NONE
+	EyeHingeV1		:  	NONE
+	EyeHolderV1		:  	NONE
+	EyePlateLeftV1		:  	NONE
+	EyePlateRightV1		:  	NONE
+	EyeSupportV4		:  	NONE
+	EyeToNoseV5		:  	NONE
+
+		Aucune pièce concernant le mechanisme des yeux n'est présent.
+
+Inventaire fait par HONION Jeffrey & VOISIN Alexis.
