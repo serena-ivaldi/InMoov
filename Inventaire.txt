@@ -30,9 +30,9 @@ FACE & JAW :
 
 SKULL & EARS :
 	EarLeftV0   		:  	OK
-	EarLeftV1		:  	NONE ( V0 à disposition )
+	EarLeftV1		:  	NONE ( V0 a disposition )
 	EarRightV0		:  	OK
-	EarRightV1		:  	NONE ( V0 à disposition )
+	EarRightV1		:  	NONE ( V0 a disposition )
 	EarSpeakerLeftV1	:  	NONE
 	EarSpeakerRightV1	:  	NONE
 	SpeakerV1		:  	NONE
@@ -47,8 +47,8 @@ SHOULDER :
 	LeftPivCenterV1		:  	OK
 	LeftPivMitV1		:  	NONE
 	LeftPivPotHolder	:  	OK
-	LogoLeftMyRobotV2	:  	NONE ( LOGO nécessaire ? )
-	LogoLeftMyRobotV2	:  	NONE ( LOGO nécessaire ? )
+	LogoLeftMyRobotV2	:  	NONE ( LOGO necessaire ? )
+	LogoLeftMyRobotV2	:  	NONE ( LOGO necessaire ? )
 	PistonClaviV3		:  	OK
 	PistonBaseV6		:  	OK
 	PivCenter		:  	OK
@@ -63,7 +63,7 @@ SHOULDER :
 	ServoHolderV1		:  	NONE
 
 BICEPS :
-	Déja assemblé à l'origine. L'ensemble des pièces y est.
+	Deja assemble à l'origine. L'ensemble des pieces y est.
 
 FINGERSENSOR :
 	SensorFinger7-5piece	:  	OK
@@ -96,6 +96,6 @@ EYE MECHANISM :
 	EyeSupportV4		:  	NONE
 	EyeToNoseV5		:  	NONE
 
-		Aucune pièce concernant le mechanisme des yeux n'est présent.
+		Aucune piece concernant le mechanisme des yeux n'est present.
 
 Inventaire fait par HONION Jeffrey & VOISIN Alexis.
