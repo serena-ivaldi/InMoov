@@ -1,6 +1,6 @@
 			INVENTAIRE ROBOT INMOOV  ( inmoov.fr/inmoov-stl-parts-viewer )
 
-		VX : Version X de la pièce.
+		VX : Version X de la piÃ¨ce.
 
 NECK :
 	FaceHolderV3 		: 	OK
@@ -63,7 +63,7 @@ SHOULDER :
 	ServoHolderV1		:  	NONE
 
 BICEPS :
-	Deja assemble à l'origine. L'ensemble des pieces y est.
+	Deja assemble Ã  l'origine. L'ensemble des pieces y est.
 
 FINGERSENSOR :
 	SensorFinger7-5piece	:  	OK
@@ -97,5 +97,8 @@ EYE MECHANISM :
 	EyeToNoseV5		:  	NONE
 
 		Aucune piece concernant le mechanisme des yeux n'est present.
+		
+OTHER :
+	Manque de vis et/ou taille des vis fournies incompatibles
 
 Inventaire fait par HONION Jeffrey & VOISIN Alexis.
