@@ -1,4 +1,4 @@
-			INVENTAIRE ROBOT INMOOV  ( inmoov.fr/inmoov-stl-parts-viewer )
+﻿			INVENTAIRE ROBOT INMOOV  ( inmoov.fr/inmoov-stl-parts-viewer )
 
 		VX : Version X de la pièce.
 
@@ -34,7 +34,7 @@ SKULL & EARS :
 	EarRightV0		:  	OK
 	EarRightV1		:  	NONE ( V0 a disposition )
 	EarSpeakerLeftV1	:  	NONE
-	EarSpeakerRightV1	:  	NONE
+	EarSpeakerRightV1	:  	NONE	
 	SpeakerV1		:  	NONE
 	SpeakerSpacerV1		:  	NONE
 	TopBackSkullV1		:  	OK
@@ -63,7 +63,9 @@ SHOULDER :
 	ServoHolderV1		:  	NONE
 
 BICEPS :
-	Deja assemble à l'origine. L'ensemble des pieces y est.
+	Deja assemble à l'origine. 
+	Il manque seulement cette pièce en deux exemplaire ( pour chaque bras )
+	ServoBaseV1		:       NONE
 
 FINGERSENSOR :
 	SensorFinger7-5piece	:  	OK
@@ -96,9 +98,36 @@ EYE MECHANISM :
 	EyeSupportV4		:  	NONE
 	EyeToNoseV5		:  	NONE
 
-		Aucune piece concernant le mechanisme des yeux n'est present.
+		Aucune piece concernant le mechanisme des yeux n'est presente.
 		
 OTHER :
 	Manque de vis et/ou taille des vis fournies incompatibles
+	Moteur Servo HK15298
+
+RECAPITULATIF DES PIECES MANQUANTES ( avec lien Modele 3D )
+
+	EarSpeakerLeftV1	:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Skull-and-Ears&parts=EarSpeakerLeftV1.stl
+	EarSpeakerRightV1	:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Skull-and-Ears&parts=EarSpeakerRightV1.stl
+	SpeakerV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Skull-and-Ears&parts=Speaker1.stl
+	SpeakerSpacerV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Skull-and-Ears&parts=SpeakerSpacer1.stl
+	LeftPivMitV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Shoulder&parts=leftPivMitV1.stl
+	PivWormV2		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Shoulder&parts=PivWormV2.stl
+	ServoHolderV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Shoulder&parts=servoholderV1.stl
+	ServoBaseV1	X2	:       NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Bicep&parts=servobaseV1.stl
+	SideRibsCoverV2		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Chest-and-back-20140902&parts=SideRibsCoverV2.stl
+	EyeBallSupportLeftV1	:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeBallSupportLeftV1.stl
+	EyeBallSupportRightV1	:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeBallSupportRightV1.stl
+	EyeBallV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeBallV1.stl
+	EyeHingeCurveV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeHingeCurveV1.stl
+	EyeHingeV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeHingeV1.stl
+	EyeHolderV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeHolderV1.stl
+	EyePlateLeftV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyePlateLeftV1.stl
+	EyePlateRightV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyePlateRightV1.stl
+	EyeSupportV4		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeSupportV4.stl
+	EyeToNoseV5		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeTo%20NoseV5.stl
+
+	Moteur Servo HK15298				http://www.francerobotique.com/servomoteurs-rc/71-hk15298.html 
+	(le nombre de moteur n'étant pas indiqué, pour le moment il nous en manque 1)
+	
 
 Inventaire fait par HONION Jeffrey & VOISIN Alexis.
