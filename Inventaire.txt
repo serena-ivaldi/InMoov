@@ -89,7 +89,7 @@ CHEST & BACK :
 EYE MECHANISM :
 	EyeBallSupportLeftV1	:  	NONE
 	EyeBallSupportRightV1	:  	NONE
-	EyeBallV1		:  	NONE
+	EyeBallV1		:  	OK
 	EyeHingeCurveV1		:  	NONE
 	EyeHingeV1		:  	NONE
 	EyeHolderV1		:  	NONE
@@ -97,9 +97,30 @@ EYE MECHANISM :
 	EyePlateRightV1		:  	NONE
 	EyeSupportV4		:  	NONE
 	EyeToNoseV5		:  	NONE
-
-		Aucune piece concernant le mechanisme des yeux n'est presente.
-		
+	
+	
+	
+TORSO : 
+	ChestLowV1		:	NONE
+	HomLowBack-V1		:	NONE
+	HomLowFront-V1		:	NONE
+	InterKincetMidV1	:	NONE
+	InterKinectSideV1	:	NONE
+	KinectMidBackV1		:	NONE
+	KinectMidFrintV1	:	NONE
+	KinectSideBackV1	:	NONE
+	KinectSideHolderV1	:	NONE
+	SternumV1		:	NONE
+	ThroatLowerV1		:	NONE
+	Arduinospportmega	:	NONE
+	HomPlateBack+V1		:	NONE
+	HomPlateBack-V1		:	NONE
+	HomPlateBackLow+V1	:	NONE
+	HomPlateBackLow-V1	:	NONE
+	HomPlatefront+V1	:	NONE
+	HomPlateFront-V1	:	NONE
+	ServoHolsterV1		:	OK
+	
 OTHER :
 	Manque de vis et/ou taille des vis fournies incompatibles
 	Moteur Servo HK15298
