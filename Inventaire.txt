@@ -119,7 +119,7 @@ TORSO :
 	HomPlateBackLow-V1	:	NONE
 	HomPlatefront+V1	:	NONE
 	HomPlateFront-V1	:	NONE
-	ServoHolsterV1		:	OK
+	ServoHolsterV1		: 	NONE
 	
 OTHER :
 	Manque de vis et/ou taille des vis fournies incompatibles
@@ -146,6 +146,25 @@ RECAPITULATIF DES PIECES MANQUANTES ( avec lien Modele 3D )
 	EyePlateRightV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyePlateRightV1.stl
 	EyeSupportV4		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeSupportV4.stl
 	EyeToNoseV5		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeTo%20NoseV5.stl
+	ChestLowV1		:	NONE
+	HomLowBack-V1		:	NONE
+	HomLowFront-V1		:	NONE
+	InterKincetMidV1	:	NONE
+	InterKinectSideV1	:	NONE
+	KinectMidBackV1		:	NONE
+	KinectMidFrintV1	:	NONE
+	KinectSideBackV1	:	NONE
+	KinectSideHolderV1	:	NONE
+	SternumV1		:	NONE
+	ThroatLowerV1		:	NONE
+	Arduinospportmega	:	NONE
+	HomPlateBack+V1		:	NONE
+	HomPlateBack-V1		:	NONE
+	HomPlateBackLow+V1	:	NONE
+	HomPlateBackLow-V1	:	NONE
+	HomPlatefront+V1	:	NONE
+	HomPlateFront-V1	:	NONE
+	ServoHolsterV1		: 	NONE
 
 	Moteur Servo HK15298				http://www.francerobotique.com/servomoteurs-rc/71-hk15298.html 
 	(le nombre de moteur n'étant pas indiqué, pour le moment il nous en manque 1)
