@@ -107,7 +107,7 @@ TORSO :
 	InterKincetMidV1	:	NONE
 	InterKinectSideV1	:	NONE
 	KinectMidBackV1		:	NONE
-	KinectMidFrintV1	:	NONE
+	KinectMidFrontV1	:	NONE
 	KinectSideBackV1	:	NONE
 	KinectSideHolderV1	:	NONE
 	SternumV1		:	NONE
@@ -125,7 +125,7 @@ OTHER :
 	Manque de vis et/ou taille des vis fournies incompatibles
 	Moteur Servo HK15298
 
-RECAPITULATIF DES PIECES MANQUANTES ( avec lien Modele 3D )
+RECAPITULATIF DES PIECES MANQUANTES ( avec lien Visuel Modele 3D )
 
 	EarSpeakerLeftV1	:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Skull-and-Ears&parts=EarSpeakerLeftV1.stl
 	EarSpeakerRightV1	:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Skull-and-Ears&parts=EarSpeakerRightV1.stl
@@ -138,7 +138,6 @@ RECAPITULATIF DES PIECES MANQUANTES ( avec lien Modele 3D )
 	SideRibsCoverV2		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Chest-and-back-20140902&parts=SideRibsCoverV2.stl
 	EyeBallSupportLeftV1	:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeBallSupportLeftV1.stl
 	EyeBallSupportRightV1	:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeBallSupportRightV1.stl
-	EyeBallV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeBallV1.stl
 	EyeHingeCurveV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeHingeCurveV1.stl
 	EyeHingeV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeHingeV1.stl
 	EyeHolderV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeHolderV1.stl
@@ -146,25 +145,25 @@ RECAPITULATIF DES PIECES MANQUANTES ( avec lien Modele 3D )
 	EyePlateRightV1		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyePlateRightV1.stl
 	EyeSupportV4		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeSupportV4.stl
 	EyeToNoseV5		:  	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Eyes-mechanism&parts=EyeTo%20NoseV5.stl
-	ChestLowV1		:	NONE
-	HomLowBack-V1		:	NONE
-	HomLowFront-V1		:	NONE
-	InterKincetMidV1	:	NONE
-	InterKinectSideV1	:	NONE
-	KinectMidBackV1		:	NONE
-	KinectMidFrintV1	:	NONE
-	KinectSideBackV1	:	NONE
-	KinectSideHolderV1	:	NONE
-	SternumV1		:	NONE
-	ThroatLowerV1		:	NONE
-	Arduinospportmega	:	NONE
-	HomPlateBack+V1		:	NONE
-	HomPlateBack-V1		:	NONE
-	HomPlateBackLow+V1	:	NONE
-	HomPlateBackLow-V1	:	NONE
-	HomPlatefront+V1	:	NONE
-	HomPlateFront-V1	:	NONE
-	ServoHolsterV1		: 	NONE
+	ChestLowV1		:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=ChestLowV1.stl
+	HomLowBack-V1		:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=HomLowBack-V1.stl
+	HomLowFront-V1		:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=HomLowFront-V1.stl
+	InterKincetMidV1	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=InterKinectMidV1.stl
+	InterKinectSideV1	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=InterKinectSideV1.stl
+	KinectMidBackV1		:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=KinectMidBackV1.stl
+	KinectMidFrontV1	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=KinectMidFrontV1.stl
+	KinectSideBackV1	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=KinectSideBackV1.stl
+	KinectSideHolderV1	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=KinectSideHolderV1.stl
+	SternumV1		:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=SternumV1.stl
+	ThroatLowerV1		:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=ThroatLowerV1.stl
+	Arduinospportmega	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=arduinosupportmega.stl
+	HomPlateBack+V1		:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=homplateback%2BV1.stl
+	HomPlateBack-V1		:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=homplateback-V1.stl
+	HomPlateBackLow+V1	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=homplatebacklow%2BV1.stl
+	HomPlateBackLow-V1	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=homplatebacklow-V1.stl
+	HomPlatefront+V1	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=homplatefront%2BV1.stl
+	HomPlateFront-V1	:	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=homplatefront-V1.stl
+	ServoHolsterV1		: 	NONE		http://inmoov.fr/inmoov-stl-3d/?bodyparts=Torso&parts=servoHolsterV1.stl
 
 	Moteur Servo HK15298				http://www.francerobotique.com/servomoteurs-rc/71-hk15298.html 
 	(le nombre de moteur n'étant pas indiqué, pour le moment il nous en manque 1)
